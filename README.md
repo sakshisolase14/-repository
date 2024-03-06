@@ -1,2 +1,2 @@
 # -repository
-this is my 1st redme file that can be use for using information , data codes,project and inportant document.
+This is my 1st redme file that can be use to store information,data,codes,project and important document.
